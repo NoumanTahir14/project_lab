@@ -11,6 +11,8 @@ A complete e-commerce application for browsing and purchasing motorbikes, built 
 ![cart](https://github.com/user-attachments/assets/286df1b2-9d77-4845-9722-6fe7551e09de)
 ![order](https://github.com/user-attachments/assets/b184a76a-f137-4f94-ad72-4fac3dce6fd1)
 
+## Video
+https://github.com/user-attachments/assets/2ceb0ccf-5328-40ba-8a4b-f50672d2d30a
 
 ## Features
 

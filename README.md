@@ -1,16 +1,90 @@
-# project_lab
+# Motorbike Shop - Flutter E-Commerce App
 
-A new Flutter project.
+A complete e-commerce application for browsing and purchasing motorbikes, built with Flutter and GetX state management.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- 🏍️ Browse motorbikes with detailed specifications
+- 🔍 Search functionality to find specific models
+- 🛒 Shopping cart with item management
+- 🔐 User authentication (login/signup)
+- 💳 Checkout process with multiple payment methods
+- 📦 Order history tracking
+- 🌙 Responsive UI with dark mode support (optional)
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies Used
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Flutter** - Cross-platform framework
+- **GetX** - State management, navigation, and dependency injection
+- **Cached Network Image** - For efficient image loading
+- **Shimmer** - For loading placeholders
+- **Sqflite** - Local database for orders (optional)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Installation
+
+1. **Prerequisites**
+   - Flutter SDK (latest stable version)
+   - Android Studio/VSCode with Flutter plugins
+   - Android NDK version 27.0.12077973
+
+2. **Setup**
+   ```bash
+   git clone https://github.com/yourusername/motorbike-shop.git
+   cd motorbike-shop
+   flutter pub get
+
+
+lib/
+├── controllers/          # GetX controllers
+│   ├── auth_controller.dart
+│   ├── cart_controller.dart
+│   └── payment_controller.dart
+├── models/              # Data models
+│   ├── motorbike.dart
+│   ├── order.dart
+│   └── user.dart
+├── screens/             # Application screens
+│   ├── auth/            # Authentication screens
+│   ├── cart/            # Cart and checkout
+│   ├── motorbikes/      # Product browsing
+│   └── orders/          # Order management
+├── widgets/             # Reusable components
+└── main.dart            # App entry point
+
+Screens
+
+    Authentication
+
+        Login screen
+
+        Signup screen
+
+    Motorbike Catalog
+
+        Grid view of available motorbikes
+
+        Search functionality
+
+        Product details screen
+
+    Shopping Cart
+
+        Add/remove items
+
+        Quantity adjustment
+
+        Total calculation
+
+    Checkout
+
+        Address input
+
+        Payment method selection
+
+        Order confirmation
+
+    Order History
+
+        List of past orders
+
+        Order details view

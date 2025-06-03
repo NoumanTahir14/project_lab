@@ -2,7 +2,14 @@
 
 A complete e-commerce application for browsing and purchasing motorbikes, built with Flutter and GetX state management.
 
+## ScreenSHots
+
+assets/images/signup.png
 assets/images/login.png
+assets/images/cart.png
+assets/images/home.png
+assets/images/history.png
+
 ## Features
 
 - 🏍️ Browse motorbikes with detailed specifications

@@ -4,11 +4,13 @@ A complete e-commerce application for browsing and purchasing motorbikes, built 
 
 ## ScreenSHots
 
-assets/images/signup.png
-assets/images/login.png
-assets/images/cart.png
-assets/images/home.png
-assets/images/history.png
+![signup](https://github.com/user-attachments/assets/ea6f9fbc-edba-4a2c-ac66-3ba3b98342e1)
+![login](https://github.com/user-attachments/assets/2b7dd317-3da9-480f-8779-6ce16ddf739f)
+![home](https://github.com/user-attachments/assets/ea2f5932-4e6f-4188-9e75-e9758d3b1852)
+![detail](https://github.com/user-attachments/assets/727710d8-0e95-4fb3-8fa4-f107be7baba3)
+![cart](https://github.com/user-attachments/assets/286df1b2-9d77-4845-9722-6fe7551e09de)
+![order](https://github.com/user-attachments/assets/b184a76a-f137-4f94-ad72-4fac3dce6fd1)
+
 
 ## Features
 

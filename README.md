@@ -23,7 +23,6 @@ https://github.com/user-attachments/assets/2ceb0ccf-5328-40ba-8a4b-f50672d2d30a
 - 🔐 User authentication (login/signup)
 - 💳 Checkout process with multiple payment methods
 - 📦 Order history tracking
-- 🌙 Responsive UI with dark mode support (optional)
 
 ## Technologies Used
 
